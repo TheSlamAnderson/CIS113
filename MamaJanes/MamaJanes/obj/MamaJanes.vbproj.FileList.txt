@@ -1,0 +1,10 @@
+obj\Debug\MamaJanes.exe
+obj\Debug\MamaJanes.xml
+obj\Debug\MamaJanes.pdb
+bin\Debug\MamaJanes.exe
+bin\Debug\MamaJanes.pdb
+bin\Debug\MamaJanes.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MamaJanes.mjForm.resources
+obj\Debug\MamaJanes.Resources.resources
+obj\Debug\MamaJanes.vbproj.GenerateResource.Cache

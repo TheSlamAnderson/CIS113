@@ -1,0 +1,3 @@
+D:\Documents\College\Visual Basic\MamaJanes\MamaJanes\obj\Debug\MamaJanes.exe
+D:\Documents\College\Visual Basic\MamaJanes\MamaJanes\obj\Debug\MamaJanes.xml
+D:\Documents\College\Visual Basic\MamaJanes\MamaJanes\obj\Debug\MamaJanes.pdb

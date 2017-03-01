@@ -1,0 +1,10 @@
+bin\Debug\ValleyBoulevard8.exe
+bin\Debug\ValleyBoulevard8.pdb
+bin\Debug\ValleyBoulevard8.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ValleyBoulevard8.Resources.resources
+obj\Debug\ValleyBoulevard8.vbForm8.resources
+obj\Debug\ValleyBoulevard8.vbproj.GenerateResource.Cache
+obj\Debug\ValleyBoulevard8.exe
+obj\Debug\ValleyBoulevard8.xml
+obj\Debug\ValleyBoulevard8.pdb

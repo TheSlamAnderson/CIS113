@@ -1,0 +1,10 @@
+obj\Debug\ValleyBoulevard3.exe
+obj\Debug\ValleyBoulevard3.xml
+obj\Debug\ValleyBoulevard3.pdb
+bin\Debug\ValleyBoulevard3.exe
+bin\Debug\ValleyBoulevard3.pdb
+bin\Debug\ValleyBoulevard3.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ValleyBoulevard3.Resources.resources
+obj\Debug\ValleyBoulevard3.vbproj.GenerateResource.Cache
+obj\Debug\ValleyBoulevard3.VBAutoForm.resources
